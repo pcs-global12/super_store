@@ -1,0 +1,1709 @@
+﻿Region,State or Province,City,Postal Code,Location_id
+Central,Illinois,Addison,60101,IA60101
+Central,Illinois,Alton,62002,IA62002
+Central,Illinois,Arlington Heights,60004,IA60004
+Central,Illinois,Aurora,60505,IA60505
+Central,Illinois,Batavia,60510,IB60510
+Central,Illinois,Belleville,62223,IB62223
+Central,Illinois,Belvidere,61008,IB61008
+Central,Illinois,Bloomington,61701,IB61701
+Central,Illinois,Bolingbrook,60440,IB60440
+Central,Illinois,Buffalo Grove,60089,IB60089
+Central,Illinois,Burbank,60459,IB60459
+Central,Illinois,Calumet City,60409,IC60409
+Central,Illinois,Carbondale,62901,IC62901
+Central,Illinois,Carol Stream,60188,IC60188
+Central,Illinois,Carpentersville,60110,IC60110
+Central,Illinois,Champaign,61821,IC61821
+Central,Illinois,Chicago,60601,IC60601
+Central,Illinois,Chicago,60603,IC60603
+Central,Illinois,Chicago,60610,IC60610
+Central,Illinois,Chicago,60611,IC60611
+Central,Illinois,Chicago,60623,IC60623
+Central,Illinois,Chicago,60653,IC60653
+Central,Illinois,Chicago,60699,IC60699
+Central,Illinois,Collinsville,62234,IC62234
+Central,Illinois,Country Club Hills,60478,IC60478
+Central,Illinois,Crystal Lake,60014,IC60014
+Central,Illinois,Danville,61832,ID61832
+Central,Illinois,Decatur,62521,ID62521
+Central,Illinois,Des Plaines,60016,ID60016
+Central,Illinois,Downers Grove,60516,ID60516
+Central,Illinois,East Saint Louis,62205,IE62205
+Central,Illinois,Elgin,60123,IE60123
+Central,Illinois,Elk Grove Village,60007,IE60007
+Central,Illinois,Elmhurst,60126,IE60126
+Central,Illinois,Evanston,60201,IE60201
+Central,Illinois,Forest Park,60130,IF60130
+Central,Illinois,Frankfort,60423,IF60423
+Central,Illinois,Franklin Park,60131,IF60131
+Central,Illinois,Freeport,61032,IF61032
+Central,Illinois,Galesburg,61401,IG61401
+Central,Illinois,Glen Ellyn,60137,IG60137
+Central,Illinois,Glendale Heights,60139,IG60139
+Central,Illinois,Glenview,60025,IG60025
+Central,Illinois,Granite City,62040,IG62040
+Central,Illinois,Gurnee,60031,IG60031
+Central,Illinois,Hanover Park,60103,IH60103
+Central,Illinois,Highland Park,60035,IH60035
+Central,Illinois,Hoffman Estates,60194,IH60194
+Central,Illinois,Joliet,60432,IJ60432
+Central,Illinois,Kankakee,60901,IK60901
+Central,Illinois,Lake In The Hills,60102,IL60102
+Central,Illinois,Lansing,60438,IL60438
+Central,Illinois,Lombard,60148,IL60148
+Central,Illinois,Melrose Park,60160,IM60160
+Central,Illinois,Moline,61265,IM61265
+Central,Illinois,Mount Prospect,60056,IM60056
+Central,Illinois,Mundelein,60060,IM60060
+Central,Illinois,Naperville,60540,IN60540
+Central,Illinois,Normal,61761,IN61761
+Central,Illinois,Northbrook,60062,IN60062
+Central,Illinois,Oak Forest,60452,IO60452
+Central,Illinois,Oak Lawn,60453,IO60453
+Central,Illinois,Oak Park,60302,IO60302
+Central,Illinois,Orland Park,60462,IO60462
+Central,Illinois,Oswego,60543,IO60543
+Central,Illinois,Palatine,60067,IP60067
+Central,Illinois,Park Ridge,60068,IP60068
+Central,Illinois,Pekin,61554,IP61554
+Central,Illinois,Peoria,61604,IP61604
+Central,Illinois,Plainfield,60544,IP60544
+Central,Illinois,Quincy,62301,IQ62301
+Central,Illinois,Rock Island,61201,IR61201
+Central,Illinois,Rockford,61107,IR61107
+Central,Illinois,Romeoville,60441,IR60441
+Central,Illinois,Saint Charles,60174,IS60174
+Central,Illinois,Schaumburg,60193,IS60193
+Central,Illinois,Skokie,60076,IS60076
+Central,Illinois,Springfield,62701,IS62701
+Central,Illinois,Streamwood,60107,IS60107
+Central,Illinois,Tinley Park,60477,IT60477
+Central,Illinois,Urbana,61801,IU61801
+Central,Illinois,Vernon Hills,60061,IV60061
+Central,Illinois,Waukegan,60087,IW60087
+Central,Illinois,West Chicago,60185,IW60185
+Central,Illinois,Wheaton,60187,IW60187
+Central,Illinois,Wheeling,60090,IW60090
+Central,Illinois,Wilmette,60091,IW60091
+Central,Illinois,Woodridge,60517,IW60517
+Central,Illinois,Woodstock,60098,IW60098
+Central,Indiana,Anderson,46016,IA46016
+Central,Indiana,Bloomington,47401,IB47401
+Central,Indiana,Carmel,46032,IC46032
+Central,Indiana,Columbus,47201,IC47201
+Central,Indiana,Crown Point,46307,IC46307
+Central,Indiana,East Chicago,46312,IE46312
+Central,Indiana,Elkhart,46514,IE46514
+Central,Indiana,Fort Wayne,46806,IF46806
+Central,Indiana,Frankfort,46041,IF46041
+Central,Indiana,Gary,46404,IG46404
+Central,Indiana,Granger,46530,IG46530
+Central,Indiana,Greenwood,46142,IG46142
+Central,Indiana,Hammond,46324,IH46324
+Central,Indiana,Highland,46322,IH46322
+Central,Indiana,Hobart,46342,IH46342
+Central,Indiana,Indianapolis,46203,II46203
+Central,Indiana,Jeffersonville,47130,IJ47130
+Central,Indiana,Kokomo,46901,IK46901
+Central,Indiana,La Porte,46350,IL46350
+Central,Indiana,Lafayette,47905,IL47905
+Central,Indiana,Lawrence,46226,IL46226
+Central,Indiana,Marion,46952,IM46952
+Central,Indiana,Merrillville,46410,IM46410
+Central,Indiana,Michigan City,46360,IM46360
+Central,Indiana,Mishawaka,46544,IM46544
+Central,Indiana,Muncie,47302,IM47302
+Central,Indiana,Munster,46321,IM46321
+Central,Indiana,New Albany,47150,IN47150
+Central,Indiana,New Castle,47362,IN47362
+Central,Indiana,Noblesville,46060,IN46060
+Central,Indiana,Portage,46368,IP46368
+Central,Indiana,Richmond,47374,IR47374
+Central,Indiana,Schererville,46375,IS46375
+Central,Indiana,Seymour,47274,IS47274
+Central,Indiana,South Bend,46614,IS46614
+Central,Indiana,Terre Haute,47802,IT47802
+Central,Indiana,Valparaiso,46383,IV46383
+Central,Indiana,Vincennes,47591,IV47591
+Central,Indiana,West Lafayette,47906,IW47906
+Central,Iowa,Ames,50010,IA50010
+Central,Iowa,Ankeny,50021,IA50021
+Central,Iowa,Bettendorf,52722,IB52722
+Central,Iowa,Burlington,52601,IB52601
+Central,Iowa,Cedar Falls,50613,IC50613
+Central,Iowa,Cedar Rapids,52402,IC52402
+Central,Iowa,Clinton,52732,IC52732
+Central,Iowa,Coralville,52241,IC52241
+Central,Iowa,Council Bluffs,51503,IC51503
+Central,Iowa,Davenport,52803,ID52803
+Central,Iowa,Des Moines,50315,ID50315
+Central,Iowa,Dubuque,52001,ID52001
+Central,Iowa,Fort Dodge,50501,IF50501
+Central,Iowa,Iowa City,52240,II52240
+Central,Iowa,Marion,52302,IM52302
+Central,Iowa,Marshalltown,50158,IM50158
+Central,Iowa,Mason City,50401,IM50401
+Central,Iowa,Muscatine,52761,IM52761
+Central,Iowa,Newton,50208,IN50208
+Central,Iowa,Ottumwa,52501,IO52501
+Central,Iowa,Sioux City,51106,IS51106
+Central,Iowa,Urbandale,50322,IU50322
+Central,Iowa,Waterloo,50701,IW50701
+Central,Iowa,West Des Moines,50265,IW50265
+Central,Kansas,Derby,67037,KD67037
+Central,Kansas,Dodge City,67801,KD67801
+Central,Kansas,Emporia,66801,KE66801
+Central,Kansas,Garden City,67846,KG67846
+Central,Kansas,Hays,67601,KH67601
+Central,Kansas,Hutchinson,67501,KH67501
+Central,Kansas,Kansas City,66104,KK66104
+Central,Kansas,Lawrence,66044,KL66044
+Central,Kansas,Leavenworth,66048,KL66048
+Central,Kansas,Leawood,66209,KL66209
+Central,Kansas,Lenexa,66215,KL66215
+Central,Kansas,Liberal,67901,KL67901
+Central,Kansas,Manhattan,66502,KM66502
+Central,Kansas,Newton,67114,KN67114
+Central,Kansas,Olathe,66062,KO66062
+Central,Kansas,Overland Park,66212,KO66212
+Central,Kansas,Pittsburg,66762,KP66762
+Central,Kansas,Prairie Village,66202,KP66202
+Central,Kansas,Shawnee,66203,KS66203
+Central,Kansas,Topeka,66614,KT66614
+Central,Kansas,Wichita,67212,KW67212
+Central,Michigan,Adrian,49221,MA49221
+Central,Michigan,Allen Park,48101,MA48101
+Central,Michigan,Ann Arbor,48104,MA48104
+Central,Michigan,Battle Creek,49017,MB49017
+Central,Michigan,Bay City,48708,MB48708
+Central,Michigan,Burton,48509,MB48509
+Central,Michigan,Canton,48187,MC48187
+Central,Michigan,Clinton,49236,MC49236
+Central,Michigan,Dearborn,48126,MD48126
+Central,Michigan,Dearborn Heights,48127,MD48127
+Central,Michigan,Detroit,48138,MD48138
+Central,Michigan,Detroit,48205,MD48205
+Central,Michigan,Detroit,48227,MD48227
+Central,Michigan,Detroit,48234,MD48234
+Central,Michigan,East Lansing,48823,ME48823
+Central,Michigan,Eastpointe,48021,ME48021
+Central,Michigan,Farmington Hills,48336,MF48336
+Central,Michigan,Flint,48505,MF48505
+Central,Michigan,Garden City,48135,MG48135
+Central,Michigan,Grand Rapids,49505,MG49505
+Central,Michigan,Holland,49423,MH49423
+Central,Michigan,Inkster,48141,MI48141
+Central,Michigan,Jackson,49201,MJ49201
+Central,Michigan,Kalamazoo,49001,MK49001
+Central,Michigan,Kentwood,49508,MK49508
+Central,Michigan,Lansing,48911,ML48911
+Central,Michigan,Lincoln Park,48146,ML48146
+Central,Michigan,Livonia,48154,ML48154
+Central,Michigan,Madison Heights,48071,MM48071
+Central,Michigan,Midland,48640,MM48640
+Central,Michigan,Mount Pleasant,48858,MM48858
+Central,Michigan,Muskegon,49442,MM49442
+Central,Michigan,Novi,48375,MN48375
+Central,Michigan,Oak Park,48237,MO48237
+Central,Michigan,Owosso,48841,MO48841
+Central,Michigan,Pontiac,48342,MP48342
+Central,Michigan,Port Huron,48060,MP48060
+Central,Michigan,Portage,49002,MP49002
+Central,Michigan,Redford,48239,MR48239
+Central,Michigan,Rochester Hills,48307,MR48307
+Central,Michigan,Roseville,48066,MR48066
+Central,Michigan,Royal Oak,48073,MR48073
+Central,Michigan,Saginaw,48601,MS48601
+Central,Michigan,Saint Clair Shores,48080,MS48080
+Central,Michigan,Sault Sainte Marie,49783,MS49783
+Central,Michigan,Shelby,49455,MS49455
+Central,Michigan,Southfield,48034,MS48034
+Central,Michigan,Southgate,48195,MS48195
+Central,Michigan,Sterling Heights,48310,MS48310
+Central,Michigan,Taylor,48180,MT48180
+Central,Michigan,Trenton,48183,MT48183
+Central,Michigan,Troy,48098,MT48098
+Central,Michigan,Walker,49534,MW49534
+Central,Michigan,Warren,48093,MW48093
+Central,Michigan,Waterford,48329,MW48329
+Central,Michigan,Westland,48185,MW48185
+Central,Michigan,Wyoming,49509,MW49509
+Central,Minnesota,Apple Valley,55124,MA55124
+Central,Minnesota,Blaine,55434,MB55434
+Central,Minnesota,Bloomington,55420,MB55420
+Central,Minnesota,Brooklyn Center,55429,MB55429
+Central,Minnesota,Brooklyn Park,55445,MB55445
+Central,Minnesota,Burnsville,55337,MB55337
+Central,Minnesota,Coon Rapids,55433,MC55433
+Central,Minnesota,Cottage Grove,55016,MC55016
+Central,Minnesota,Duluth,55803,MD55803
+Central,Minnesota,Eagan,55122,ME55122
+Central,Minnesota,Eden Prairie,55343,ME55343
+Central,Minnesota,Edina,55410,ME55410
+Central,Minnesota,Fridley,55432,MF55432
+Central,Minnesota,Hopkins,55305,MH55305
+Central,Minnesota,Inver Grove Heights,55076,MI55076
+Central,Minnesota,Lakeville,55044,ML55044
+Central,Minnesota,Lino Lakes,55014,ML55014
+Central,Minnesota,Mankato,56001,MM56001
+Central,Minnesota,Maple Grove,55369,MM55369
+Central,Minnesota,Maplewood,55119,MM55119
+Central,Minnesota,Minneapolis,55407,MM55407
+Central,Minnesota,Minnetonka,55345,MM55345
+Central,Minnesota,Minnetonka Mills,55343,MM55343
+Central,Minnesota,Moorhead,56560,MM56560
+Central,Minnesota,Oakdale,55128,MO55128
+Central,Minnesota,Owatonna,55060,MO55060
+Central,Minnesota,Plymouth,55441,MP55441
+Central,Minnesota,Prior Lake,55372,MP55372
+Central,Minnesota,Red Wing,55066,MR55066
+Central,Minnesota,Richfield,55423,MR55423
+Central,Minnesota,Rochester,55901,MR55901
+Central,Minnesota,Roseville,55113,MR55113
+Central,Minnesota,Saint Cloud,56301,MS56301
+Central,Minnesota,Saint Louis Park,55416,MS55416
+Central,Minnesota,Saint Paul,55106,MS55106
+Central,Minnesota,Savage,55378,MS55378
+Central,Minnesota,Shakopee,55379,MS55379
+Central,Minnesota,Shoreview,55126,MS55126
+Central,Minnesota,Woodbury,55125,MW55125
+Central,Missouri,Bridgeton,63044,MB63044
+Central,Missouri,Clayton,63105,MC63105
+Central,Missouri,Columbia,65203,MC65203
+Central,Missouri,Creve Coeur,63141,MC63141
+Central,Missouri,Ferguson,63135,MF63135
+Central,Missouri,Florissant,63031,MF63031
+Central,Missouri,Gladstone,64118,MG64118
+Central,Missouri,Hazelwood,63042,MH63042
+Central,Missouri,Independence,64055,MI64055
+Central,Missouri,Jefferson City,65109,MJ65109
+Central,Missouri,Joplin,64804,MJ64804
+Central,Missouri,Kansas City,64130,MK64130
+Central,Missouri,Kirkwood,63122,MK63122
+Central,Missouri,Lees Summit,64064,ML64064
+Central,Missouri,Maryland Heights,63043,MM63043
+Central,Missouri,Mehlville,63129,MM63129
+Central,Missouri,Oakville,63129,MO63129
+Central,Missouri,Overland,63114,MO63114
+Central,Missouri,Ozark,65721,MO65721
+Central,Missouri,Raytown,64133,MR64133
+Central,Missouri,Saint Charles,63301,MS63301
+Central,Missouri,Saint Joseph,64506,MS64506
+Central,Missouri,Saint Louis,63116,MS63116
+Central,Missouri,Saint Peters,63376,MS63376
+Central,Missouri,Springfield,65807,MS65807
+Central,Missouri,University City,63130,MU63130
+Central,Missouri,Webster Groves,63119,MW63119
+Central,Missouri,Wentzville,63385,MW63385
+Central,Nebraska,Bellevue,68005,NB68005
+Central,Nebraska,Columbus,68601,NC68601
+Central,Nebraska,Fremont,68025,NF68025
+Central,Nebraska,Grand Island,68801,NG68801
+Central,Nebraska,Hastings,68901,NH68901
+Central,Nebraska,Kearney,68847,NK68847
+Central,Nebraska,La Vista,68128,NL68128
+Central,Nebraska,Lincoln,68502,NL68502
+Central,Nebraska,Norfolk,68701,NN68701
+Central,Nebraska,North Platte,69101,NN69101
+Central,Nebraska,Omaha,68046,NO68046
+Central,Nebraska,Omaha,68104,NO68104
+Central,Nebraska,Papillion,68046,NP68046
+Central,North Dakota,Bismarck,58501,NB58501
+Central,North Dakota,Dickinson,58601,ND58601
+Central,North Dakota,Fargo,58103,NF58103
+Central,North Dakota,Grand Forks,58201,NG58201
+Central,North Dakota,Mandan,58554,NM58554
+Central,North Dakota,Minot,58701,NM58701
+Central,Oklahoma,Altus,73521,OA73521
+Central,Oklahoma,Bartlesville,74006,OB74006
+Central,Oklahoma,Broken Arrow,74012,OB74012
+Central,Oklahoma,Edmond,73034,OE73034
+Central,Oklahoma,Enid,73703,OE73703
+Central,Oklahoma,Lawton,73505,OL73505
+Central,Oklahoma,Midwest City,73110,OM73110
+Central,Oklahoma,Moore,73160,OM73160
+Central,Oklahoma,Muskogee,74403,OM74403
+Central,Oklahoma,Mustang,73064,OM73064
+Central,Oklahoma,Norman,73071,ON73071
+Central,Oklahoma,Oklahoma City,73120,OO73120
+Central,Oklahoma,Owasso,74055,OO74055
+Central,Oklahoma,Ponca City,74601,OP74601
+Central,Oklahoma,Shawnee,74801,OS74801
+Central,Oklahoma,Stillwater,74074,OS74074
+Central,Oklahoma,Tulsa,74133,OT74133
+Central,South Dakota,Aberdeen,57401,SA57401
+Central,South Dakota,Brookings,57006,SB57006
+Central,South Dakota,Rapid City,57701,SR57701
+Central,South Dakota,Sioux Falls,57103,SS57103
+Central,South Dakota,Watertown,57201,SW57201
+Central,Texas,Abilene,79605,TA79605
+Central,Texas,Allen,75002,TA75002
+Central,Texas,Amarillo,79109,TA79109
+Central,Texas,Arlington,76017,TA76017
+Central,Texas,Austin,78745,TA78745
+Central,Texas,Baytown,77520,TB77520
+Central,Texas,Beaumont,77705,TB77705
+Central,Texas,Bedford,76021,TB76021
+Central,Texas,Brownsville,78521,TB78521
+Central,Texas,Bryan,77803,TB77803
+Central,Texas,Burleson,76028,TB76028
+Central,Texas,Carrollton,75007,TC75007
+Central,Texas,Cedar Hill,75104,TC75104
+Central,Texas,Cedar Park,78613,TC78613
+Central,Texas,Channelview,77530,TC77530
+Central,Texas,Cleburne,76031,TC76031
+Central,Texas,Cloverleaf,77015,TC77015
+Central,Texas,College Station,77840,TC77840
+Central,Texas,Conroe,77301,TC77301
+Central,Texas,Coppell,75019,TC75019
+Central,Texas,Corpus Christi,78415,TC78415
+Central,Texas,Corsicana,75109,TC75109
+Central,Texas,Dallas,75081,TD75081
+Central,Texas,Dallas,75203,TD75203
+Central,Texas,Dallas,75217,TD75217
+Central,Texas,Dallas,75220,TD75220
+Central,Texas,Deer Park,77536,TD77536
+Central,Texas,Denton,76201,TD76201
+Central,Texas,Duncanville,75116,TD75116
+Central,Texas,Eagle Pass,78852,TE78852
+Central,Texas,Edinburg,78539,TE78539
+Central,Texas,El Paso,79907,TE79907
+Central,Texas,Euless,76039,TE76039
+Central,Texas,Farmers Branch,75234,TF75234
+Central,Texas,Flower Mound,75028,TF75028
+Central,Texas,Fort Worth,76106,TF76106
+Central,Texas,Friendswood,77546,TF77546
+Central,Texas,Frisco,75034,TF75034
+Central,Texas,Gainesville,76240,TG76240
+Central,Texas,Garland,75043,TG75043
+Central,Texas,Georgetown,78626,TG78626
+Central,Texas,Grand Prairie,75051,TG75051
+Central,Texas,Grapevine,76051,TG76051
+Central,Texas,Greenville,75401,TG75401
+Central,Texas,Haltom City,76117,TH76117
+Central,Texas,Harker Heights,76543,TH76543
+Central,Texas,Harlingen,78550,TH78550
+Central,Texas,Highland Village,75067,TH75067
+Central,Texas,Houston,77036,TH77036
+Central,Texas,Houston,77041,TH77041
+Central,Texas,Houston,77070,TH77070
+Central,Texas,Houston,77095,TH77095
+Central,Texas,Huntsville,77340,TH77340
+Central,Texas,Hurst,76053,TH76053
+Central,Texas,Irving,75061,TI75061
+Central,Texas,Keller,76248,TK76248
+Central,Texas,Killeen,76541,TK76541
+Central,Texas,Kingsville,78363,TK78363
+Central,Texas,La Porte,77571,TL77571
+Central,Texas,Lake Jackson,77566,TL77566
+Central,Texas,Lancaster,75146,TL75146
+Central,Texas,Laredo,78041,TL78041
+Central,Texas,League City,77573,TL77573
+Central,Texas,Leander,78641,TL78641
+Central,Texas,Lewisville,75057,TL75057
+Central,Texas,Longview,75601,TL75601
+Central,Texas,Lubbock,79424,TL79424
+Central,Texas,Lufkin,75901,TL75901
+Central,Texas,Mansfield,76063,TM76063
+Central,Texas,Mcallen,78501,TM78501
+Central,Texas,Mesquite,75150,TM75150
+Central,Texas,Midland,79701,TM79701
+Central,Texas,Mineral Wells,76067,TM76067
+Central,Texas,Missouri City,77489,TM77489
+Central,Texas,Odessa,79762,TO79762
+Central,Texas,Paris,75460,TP75460
+Central,Texas,Pasadena,77506,TP77506
+Central,Texas,Pearland,77581,TP77581
+Central,Texas,Pflugerville,78660,TP78660
+Central,Texas,Pharr,78577,TP78577
+Central,Texas,Plainview,79072,TP79072
+Central,Texas,Plano,75023,TP75023
+Central,Texas,Port Arthur,77642,TP77642
+Central,Texas,Richardson,75080,TR75080
+Central,Texas,Rosenberg,77471,TR77471
+Central,Texas,Round Rock,78664,TR78664
+Central,Texas,Rowlett,75088,TR75088
+Central,Texas,Saginaw,76131,TS76131
+Central,Texas,San Angelo,76903,TS76903
+Central,Texas,San Antonio,78207,TS78207
+Central,Texas,San Juan,78589,TS78589
+Central,Texas,San Marcos,78666,TS78666
+Central,Texas,Seguin,78155,TS78155
+Central,Texas,Sherman,75090,TS75090
+Central,Texas,Spring,77373,TS77373
+Central,Texas,Sugar Land,77478,TS77478
+Central,Texas,Sulphur Springs,75482,TS75482
+Central,Texas,Texarkana,75503,TT75503
+Central,Texas,Texas City,77590,TT77590
+Central,Texas,The Colony,75056,TT75056
+Central,Texas,The Woodlands,77381,TT77381
+Central,Texas,Tyler,75701,TT75701
+Central,Texas,Victoria,77901,TV77901
+Central,Texas,Waco,76706,TW76706
+Central,Texas,Watauga,76148,TW76148
+Central,Texas,Waxahachie,75165,TW75165
+Central,Texas,Weatherford,76086,TW76086
+Central,Texas,Weslaco,78596,TW78596
+Central,Texas,Wichita Falls,76308,TW76308
+Central,Texas,Wylie,75098,TW75098
+Central,Wisconsin,Appleton,54915,WA54915
+Central,Wisconsin,Brookfield,53005,WB53005
+Central,Wisconsin,Cudahy,53110,WC53110
+Central,Wisconsin,Eau Claire,54703,WE54703
+Central,Wisconsin,Fitchburg,53713,WF53713
+Central,Wisconsin,Franklin,53132,WF53132
+Central,Wisconsin,Green Bay,54302,WG54302
+Central,Wisconsin,Greenfield,53220,WG53220
+Central,Wisconsin,Janesville,53545,WJ53545
+Central,Wisconsin,Kenosha,53142,WK53142
+Central,Wisconsin,La Crosse,54601,WL54601
+Central,Wisconsin,Madison,53711,WM53711
+Central,Wisconsin,Manitowoc,54220,WM54220
+Central,Wisconsin,Menomonee Falls,53051,WM53051
+Central,Wisconsin,Milwaukee,53209,WM53209
+Central,Wisconsin,Muskego,53150,WM53150
+Central,Wisconsin,Neenah,54956,WN54956
+Central,Wisconsin,New Berlin,53151,WN53151
+Central,Wisconsin,Oak Creek,53154,WO53154
+Central,Wisconsin,Oshkosh,54901,WO54901
+Central,Wisconsin,Racine,53402,WR53402
+Central,Wisconsin,Sheboygan,53081,WS53081
+Central,Wisconsin,Stevens Point,54481,WS54481
+Central,Wisconsin,Sun Prairie,53590,WS53590
+Central,Wisconsin,Superior,54880,WS54880
+Central,Wisconsin,Watertown,53094,WW53094
+Central,Wisconsin,Waukesha,53186,WW53186
+Central,Wisconsin,Wausau,54401,WW54401
+Central,Wisconsin,Wauwatosa,53213,WW53213
+Central,Wisconsin,West Allis,53214,WW53214
+Central,Wisconsin,West Bend,53095,WW53095
+East,Connecticut,Ansonia,6401,CA6401
+East,Connecticut,Branford,6405,CB6405
+East,Connecticut,Bridgeport,6607,CB6607
+East,Connecticut,Bristol,6010,CB6010
+East,Connecticut,Cheshire,6408,CC6408
+East,Connecticut,Colchester,6415,CC6415
+East,Connecticut,Danbury,6810,CD6810
+East,Connecticut,Darien,6820,CD6820
+East,Connecticut,East Hartford,6108,CE6108
+East,Connecticut,East Haven,6512,CE6512
+East,Connecticut,Fairfield,6824,CF6824
+East,Connecticut,Farmington,6030,CF6030
+East,Connecticut,Glastonbury,6033,CG6033
+East,Connecticut,Greenwich,6830,CG6830
+East,Connecticut,Guilford,6437,CG6437
+East,Connecticut,Hamden,6511,CH6511
+East,Connecticut,Hartford,6105,CH6105
+East,Connecticut,Hartford,6114,CH6114
+East,Connecticut,Killingly Center,6241,CK6241
+East,Connecticut,Madison,6443,CM6443
+East,Connecticut,Manchester,6040,CM6040
+East,Connecticut,Meriden,6450,CM6450
+East,Connecticut,Middletown,6457,CM6457
+East,Connecticut,Milford,6460,CM6460
+East,Connecticut,Naugatuck,6770,CN6770
+East,Connecticut,New Britain,6050,CN6050
+East,Connecticut,New Haven,6510,CN6510
+East,Connecticut,New London,6320,CN6320
+East,Connecticut,New Milford,6776,CN6776
+East,Connecticut,Newington,6111,CN6111
+East,Connecticut,North Haven,6473,CN6473
+East,Connecticut,Norwalk,6850,CN6850
+East,Connecticut,Norwalk,6855,CN6855
+East,Connecticut,Norwich,6360,CN6360
+East,Connecticut,Plainfield,6374,CP6374
+East,Connecticut,Seymour,6478,CS6478
+East,Connecticut,Shelton,6484,CS6484
+East,Connecticut,South Windsor,6074,CS6074
+East,Connecticut,Southbury,6488,CS6488
+East,Connecticut,Stamford,6901,CS6901
+East,Connecticut,Stamford,6903,CS6903
+East,Connecticut,Stratford,6614,CS6614
+East,Connecticut,Torrington,6790,CT6790
+East,Connecticut,Trumbull,6611,CT6611
+East,Connecticut,Wallingford,6492,CW6492
+East,Connecticut,Waterbury,6702,CW6702
+East,Connecticut,Waterbury,6708,CW6708
+East,Connecticut,Waterbury,6710,CW6710
+East,Connecticut,Watertown,6795,CW6795
+East,Connecticut,Willimantic,6226,CW6226
+East,Delaware,Dover,19901,DD19901
+East,Delaware,Newark,19711,DN19711
+East,Delaware,Wilmington,19805,DW19805
+East,District of Columbia,Washington,20004,DW20004
+East,District of Columbia,Washington,20006,DW20006
+East,District of Columbia,Washington,20012,DW20012
+East,District of Columbia,Washington,20016,DW20016
+East,District of Columbia,Washington,20024,DW20024
+East,Maine,Auburn,4210,MA4210
+East,Maine,Augusta,4330,MA4330
+East,Maine,Bangor,4401,MB4401
+East,Maine,Biddeford,4005,MB4005
+East,Maine,Brunswick,4011,MB4011
+East,Maine,Gorham,4038,MG4038
+East,Maine,Lewiston,4240,ML4240
+East,Maine,Portland,4101,MP4101
+East,Maine,Saco,4072,MS4072
+East,Maine,Sanford,4073,MS4073
+East,Maine,South Portland,4106,MS4106
+East,Maine,Waterville,4901,MW4901
+East,Maine,West Scarborough,4070,MW4070
+East,Maine,Westbrook,4092,MW4092
+East,Maryland,Annapolis,21403,MA21403
+East,Maryland,Aspen Hill,20906,MA20906
+East,Maryland,Baltimore,21215,MB21215
+East,Maryland,Bethesda,20814,MB20814
+East,Maryland,Bowie,20715,MB20715
+East,Maryland,Camp Springs,20746,MC20746
+East,Maryland,Catonsville,21228,MC21228
+East,Maryland,Clinton,20735,MC20735
+East,Maryland,College Park,20740,MC20740
+East,Maryland,Columbia,21044,MC21044
+East,Maryland,Crofton,21114,MC21114
+East,Maryland,Cumberland,21501,MC21501
+East,Maryland,Dundalk,21222,MD21222
+East,Maryland,Edgewood,21040,ME21040
+East,Maryland,Ellicott City,21042,ME21042
+East,Maryland,Essex,21221,ME21221
+East,Maryland,Gaithersburg,20877,MG20877
+East,Maryland,Glen Burnie,21061,MG21061
+East,Maryland,Hagerstown,21740,MH21740
+East,Maryland,Laurel,20707,ML20707
+East,Maryland,Middle River,21220,MM21220
+East,Maryland,Odenton,21113,MO21113
+East,Maryland,Olney,20832,MO20832
+East,Maryland,Owings Mills,21117,MO21117
+East,Maryland,Parkville,21234,MP21234
+East,Maryland,Perry Hall,21128,MP21128
+East,Maryland,Pikesville,21208,MP21208
+East,Maryland,Potomac,20854,MP20854
+East,Maryland,Randallstown,21133,MR21133
+East,Maryland,Reisterstown,21136,MR21136
+East,Maryland,Rockville,20852,MR20852
+East,Maryland,Saint Charles,20602,MS20602
+East,Maryland,Severna Park,21146,MS21146
+East,Maryland,Silver Spring,20901,MS20901
+East,Maryland,Waldorf,20601,MW20601
+East,Massachusetts,Abington,2351,MA2351
+East,Massachusetts,Acton,1718,MA1718
+East,Massachusetts,Agawam,1001,MA1001
+East,Massachusetts,Amesbury,1913,MA1913
+East,Massachusetts,Andover,1810,MA1810
+East,Massachusetts,Arlington,2474,MA2474
+East,Massachusetts,Ashland,1721,MA1721
+East,Massachusetts,Attleboro,2703,MA2703
+East,Massachusetts,Belchertown,1007,MB1007
+East,Massachusetts,Bellingham,2019,MB2019
+East,Massachusetts,Belmont,2478,MB2478
+East,Massachusetts,Beverly,1915,MB1915
+East,Massachusetts,Billerica,1821,MB1821
+East,Massachusetts,Boston,2108,MB2108
+East,Massachusetts,Boston,2109,MB2109
+East,Massachusetts,Boston,2110,MB2110
+East,Massachusetts,Boston,2111,MB2111
+East,Massachusetts,Boston,2112,MB2112
+East,Massachusetts,Boston,2113,MB2113
+East,Massachusetts,Boston,2116,MB2116
+East,Massachusetts,Boston,2118,MB2118
+East,Massachusetts,Boston,2129,MB2129
+East,Massachusetts,Boston,2210,MB2210
+East,Massachusetts,Boston,2215,MB2215
+East,Massachusetts,Bourne,2532,MB2532
+East,Massachusetts,Braintree,2184,MB2184
+East,Massachusetts,Bridgewater,2324,MB2324
+East,Massachusetts,Brookline,2445,MB2445
+East,Massachusetts,Burlington,1803,MB1803
+East,Massachusetts,Cambridge,2138,MC2138
+East,Massachusetts,Canton,2021,MC2021
+East,Massachusetts,Chicopee,1013,MC1013
+East,Massachusetts,Clinton,1510,MC1510
+East,Massachusetts,Concord,1742,MC1742
+East,Massachusetts,Danvers,1923,MD1923
+East,Massachusetts,Dedham,2026,MD2026
+East,Massachusetts,Dennis,2638,MD2638
+East,Massachusetts,Dracut,1826,MD1826
+East,Massachusetts,Duxbury,2331,MD2331
+East,Massachusetts,East Longmeadow,1028,ME1028
+East,Massachusetts,Easthampton,1027,ME1027
+East,Massachusetts,Easton,2334,ME2334
+East,Massachusetts,Everett,2149,ME2149
+East,Massachusetts,Fairhaven,2719,MF2719
+East,Massachusetts,Fall River,2724,MF2724
+East,Massachusetts,Falmouth,2540,MF2540
+East,Massachusetts,Fitchburg,1420,MF1420
+East,Massachusetts,Foxborough,2035,MF2035
+East,Massachusetts,Framingham,1701,MF1701
+East,Massachusetts,Franklin,2038,MF2038
+East,Massachusetts,Gardner,1440,MG1440
+East,Massachusetts,Gloucester,1930,MG1930
+East,Massachusetts,Grafton,1519,MG1519
+East,Massachusetts,Greenfield,1301,MG1301
+East,Massachusetts,Groton,1450,MG1450
+East,Massachusetts,Hanover,2339,MH2339
+East,Massachusetts,Hanson,2341,MH2341
+East,Massachusetts,Haverhill,1832,MH1832
+East,Massachusetts,Hingham,2018,MH2018
+East,Massachusetts,Holden,1520,MH1520
+East,Massachusetts,Holyoke,1040,MH1040
+East,Massachusetts,Hopkinton,1748,MH1748
+East,Massachusetts,Hudson,1749,MH1749
+East,Massachusetts,Ipswich,1938,MI1938
+East,Massachusetts,Kingston,2364,MK2364
+East,Massachusetts,Lawrence,1840,ML1840
+East,Massachusetts,Lawrence,1841,ML1841
+East,Massachusetts,Leominster,1453,ML1453
+East,Massachusetts,Lexington,2420,ML2420
+East,Massachusetts,Longmeadow,1106,ML1106
+East,Massachusetts,Lowell,1852,ML1852
+East,Massachusetts,Ludlow,1056,ML1056
+East,Massachusetts,Lunenburg,1462,ML1462
+East,Massachusetts,Lynn,1901,ML1901
+East,Massachusetts,Malden,2148,MM2148
+East,Massachusetts,Mansfield,2048,MM2048
+East,Massachusetts,Marblehead,1945,MM1945
+East,Massachusetts,Marlborough,1752,MM1752
+East,Massachusetts,Marshfield,2050,MM2050
+East,Massachusetts,Medford,2153,MM2153
+East,Massachusetts,Milford,1757,MM1757
+East,Massachusetts,Milton,2186,MM2186
+East,Massachusetts,Natick,1760,MN1760
+East,Massachusetts,Needham,2492,MN2492
+East,Massachusetts,New Bedford,2740,MN2740
+East,Massachusetts,New Bedford,2744,MN2744
+East,Massachusetts,Newburyport,1950,MN1950
+East,Massachusetts,Newton,2456,MN2456
+East,Massachusetts,North Andover,1845,MN1845
+East,Massachusetts,North Pembroke,2358,MN2358
+East,Massachusetts,Northampton,1060,MN1060
+East,Massachusetts,Norton,2766,MN2766
+East,Massachusetts,Norwood,2062,MN2062
+East,Massachusetts,Oxford,1540,MO1540
+East,Massachusetts,Palmer,1069,MP1069
+East,Massachusetts,Pepperell,1463,MP1463
+East,Massachusetts,Plymouth,2345,MP2345
+East,Massachusetts,Quincy,2169,MQ2169
+East,Massachusetts,Reading,1867,MR1867
+East,Massachusetts,Revere,2151,MR2151
+East,Massachusetts,Rockland,2370,MR2370
+East,Massachusetts,Sandwich,2563,MS2563
+East,Massachusetts,Saugus,1906,MS1906
+East,Massachusetts,Scituate,2040,MS2040
+East,Massachusetts,Sharon,2067,MS2067
+East,Massachusetts,Shrewsbury,1545,MS1545
+East,Massachusetts,Somerset,2725,MS2725
+East,Massachusetts,Somerville,2145,MS2145
+East,Massachusetts,South Boston,2127,MS2127
+East,Massachusetts,South Hadley,1075,MS1075
+East,Massachusetts,Southbridge,1550,MS1550
+East,Massachusetts,Springfield,1108,MS1108
+East,Massachusetts,Stoneham,2180,MS2180
+East,Massachusetts,Stoughton,2072,MS2072
+East,Massachusetts,Sudbury,1776,MS1776
+East,Massachusetts,Swansea,2777,MS2777
+East,Massachusetts,Taunton,2718,MT2718
+East,Massachusetts,Tewksbury,1876,MT1876
+East,Massachusetts,Townsend,1469,MT1469
+East,Massachusetts,Wakefield,1880,MW1880
+East,Massachusetts,Walpole,2032,MW2032
+East,Massachusetts,Waltham,2451,MW2451
+East,Massachusetts,Watertown,2471,MW2471
+East,Massachusetts,Webster,1570,MW1570
+East,Massachusetts,Wellesley,2457,MW2457
+East,Massachusetts,West Springfield,1089,MW1089
+East,Massachusetts,Westborough,1580,MW1580
+East,Massachusetts,Westford,1886,MW1886
+East,Massachusetts,Weymouth,2190,MW2190
+East,Massachusetts,Wilbraham,1095,MW1095
+East,Massachusetts,Wilmington,1887,MW1887
+East,Massachusetts,Winchester,1890,MW1890
+East,Massachusetts,Winthrop,2152,MW2152
+East,Massachusetts,Woburn,1801,MW1801
+East,Massachusetts,Worcester,1605,MW1605
+East,Massachusetts,Worcester,1607,MW1607
+East,Massachusetts,Worcester,1610,MW1610
+East,Massachusetts,Yarmouth,2664,MY2664
+East,New Hampshire,Bedford,3110,NB3110
+East,New Hampshire,Concord,3301,NC3301
+East,New Hampshire,Derry,3038,ND3038
+East,New Hampshire,Dover,3820,ND3820
+East,New Hampshire,Goffstown,3045,NG3045
+East,New Hampshire,Hampton,3842,NH3842
+East,New Hampshire,Hudson,3051,NH3051
+East,New Hampshire,Keene,3431,NK3431
+East,New Hampshire,Laconia,3246,NL3246
+East,New Hampshire,Londonderry,3053,NL3053
+East,New Hampshire,Manchester,3101,NM3101
+East,New Hampshire,Merrimack,3054,NM3054
+East,New Hampshire,Nashua,3060,NN3060
+East,New Hampshire,Portsmouth,3801,NP3801
+East,New Hampshire,Rochester,3839,NR3839
+East,New Hampshire,Salem,3079,NS3079
+East,New Jersey,Asbury Park,7712,NA7712
+East,New Jersey,Atlantic City,8401,NA8401
+East,New Jersey,Avenel,7001,NA7001
+East,New Jersey,Bayonne,7002,NB7002
+East,New Jersey,Belleville,7109,NB7109
+East,New Jersey,Bergenfield,7621,NB7621
+East,New Jersey,Bloomfield,7003,NB7003
+East,New Jersey,Bridgeton,8302,NB8302
+East,New Jersey,Camden,8101,NC8101
+East,New Jersey,Carteret,7008,NC7008
+East,New Jersey,Cherry Hill,8002,NC8002
+East,New Jersey,Cliffside Park,7010,NC7010
+East,New Jersey,Clifton,7011,NC7011
+East,New Jersey,Colonia,7067,NC7067
+East,New Jersey,Cranford,7016,NC7016
+East,New Jersey,Dover,7801,ND7801
+East,New Jersey,Dumont,7628,ND7628
+East,New Jersey,East Brunswick,8816,NE8816
+East,New Jersey,East Orange,7017,NE7017
+East,New Jersey,Edison,8817,NE8817
+East,New Jersey,Elizabeth,7201,NE7201
+East,New Jersey,Elmwood Park,7407,NE7407
+East,New Jersey,Englewood,7631,NE7631
+East,New Jersey,Ewing,8618,NE8618
+East,New Jersey,Fair Lawn,7410,NF7410
+East,New Jersey,Fords,8863,NF8863
+East,New Jersey,Fort Lee,7024,NF7024
+East,New Jersey,Garfield,7026,NG7026
+East,New Jersey,Glassboro,8028,NG8028
+East,New Jersey,Hackensack,7601,NH7601
+East,New Jersey,Hawthorne,7506,NH7506
+East,New Jersey,Hillside,7205,NH7205
+East,New Jersey,Hoboken,7030,NH7030
+East,New Jersey,Hopatcong,7843,NH7843
+East,New Jersey,Irvington,7111,NI7111
+East,New Jersey,Iselin,8830,NI8830
+East,New Jersey,Jersey City,7097,NJ7097
+East,New Jersey,Kearny,7032,NK7032
+East,New Jersey,Lakewood,8701,NL8701
+East,New Jersey,Linden,7036,NL7036
+East,New Jersey,Lindenwold,8021,NL8021
+East,New Jersey,Livingston,7039,NL7039
+East,New Jersey,Lodi,7644,NL7644
+East,New Jersey,Long Branch,7740,NL7740
+East,New Jersey,Lyndhurst,7071,NL7071
+East,New Jersey,Madison,7940,NM7940
+East,New Jersey,Maple Shade,8052,NM8052
+East,New Jersey,Maplewood,7040,NM7040
+East,New Jersey,Millville,8332,NM8332
+East,New Jersey,Montclair,7042,NM7042
+East,New Jersey,Morristown,7960,NM7960
+East,New Jersey,New Brunswick,8901,NN8901
+East,New Jersey,New Milford,7646,NN7646
+East,New Jersey,Newark,7101,NN7101
+East,New Jersey,North Arlington,7031,NN7031
+East,New Jersey,North Bergen,7047,NN7047
+East,New Jersey,North Plainfield,7060,NN7060
+East,New Jersey,Nutley,7110,NN7110
+East,New Jersey,Ocean City,8226,NO8226
+East,New Jersey,Old Bridge,8857,NO8857
+East,New Jersey,Orange,7050,NO7050
+East,New Jersey,Palisades Park,7650,NP7650
+East,New Jersey,Paramus,7652,NP7652
+East,New Jersey,Parsippany,7054,NP7054
+East,New Jersey,Passaic,7055,NP7055
+East,New Jersey,Paterson,7501,NP7501
+East,New Jersey,Pennsauken,8109,NP8109
+East,New Jersey,Perth Amboy,8861,NP8861
+East,New Jersey,Phillipsburg,8865,NP8865
+East,New Jersey,Plainfield,7060,NP7060
+East,New Jersey,Pleasantville,8232,NP8232
+East,New Jersey,Rahway,7065,NR7065
+East,New Jersey,Ridgewood,7450,NR7450
+East,New Jersey,Roselle,7203,NR7203
+East,New Jersey,Rutherford,7070,NR7070
+East,New Jersey,Sayreville,8871,NS8871
+East,New Jersey,Scotch Plains,7076,NS7076
+East,New Jersey,Secaucus,7094,NS7094
+East,New Jersey,Somerset,8873,NS8873
+East,New Jersey,South Orange,7079,NS7079
+East,New Jersey,South Plainfield,7080,NS7080
+East,New Jersey,South Vineland,8360,NS8360
+East,New Jersey,Summit,7901,NS7901
+East,New Jersey,Teaneck,7666,NT7666
+East,New Jersey,Tinton Falls,7701,NT7701
+East,New Jersey,Toms River,8753,NT8753
+East,New Jersey,Trenton,8601,NT8601
+East,New Jersey,Union,7083,NU7083
+East,New Jersey,Union City,7086,NU7086
+East,New Jersey,Vineland,8360,NV8360
+East,New Jersey,Wayne,7470,NW7470
+East,New Jersey,West Milford,7480,NW7480
+East,New Jersey,West Orange,7052,NW7052
+East,New Jersey,Westfield,7090,NW7090
+East,New Jersey,Willingboro,8046,NW8046
+East,New Jersey,Woodbridge,7095,NW7095
+East,New Jersey,Wyckoff,7481,NW7481
+East,New York,Albany,12208,NA12208
+East,New York,Auburn,13021,NA13021
+East,New York,Bethpage,11714,NB11714
+East,New York,Binghamton,13905,NB13905
+East,New York,Brooklyn,11226,NB11226
+East,New York,Buffalo,14215,NB14215
+East,New York,Centereach,11720,NC11720
+East,New York,Central Islip,11722,NC11722
+East,New York,Cheektowaga,14225,NC14225
+East,New York,Cohoes,12047,NC12047
+East,New York,Commack,11725,NC11725
+East,New York,Coram,11727,NC11727
+East,New York,Deer Park,11729,ND11729
+East,New York,Depew,14043,ND14043
+East,New York,Dix Hills,11746,ND11746
+East,New York,East Massapequa,11758,NE11758
+East,New York,East Meadow,11554,NE11554
+East,New York,Elmira,14901,NE14901
+East,New York,Franklin Square,11010,NF11010
+East,New York,Freeport,11520,NF11520
+East,New York,Glen Cove,11542,NG11542
+East,New York,Harrison,10528,NH10528
+East,New York,Hempstead,11550,NH11550
+East,New York,Hicksville,11801,NH11801
+East,New York,Holbrook,11741,NH11741
+East,New York,Ithaca,14853,NI14853
+East,New York,Jamestown,14701,NJ14701
+East,New York,Kenmore,14217,NK14217
+East,New York,Levittown,11756,NL11756
+East,New York,Lindenhurst,11757,NL11757
+East,New York,Long Beach,11561,NL11561
+East,New York,Mount Vernon,10550,NM10550
+East,New York,New City,10956,NN10956
+East,New York,New Rochelle,10801,NN10801
+East,New York,New York City,10004,NN10004
+East,New York,New York City,10009,NN10009
+East,New York,New York City,10011,NN10011
+East,New York,New York City,10012,NN10012
+East,New York,New York City,10013,NN10013
+East,New York,New York City,10024,NN10024
+East,New York,New York City,10035,NN10035
+East,New York,New York City,10039,NN10039
+East,New York,New York City,10045,NN10045
+East,New York,New York City,10112,NN10112
+East,New York,New York City,10115,NN10115
+East,New York,New York City,10154,NN10154
+East,New York,New York City,10165,NN10165
+East,New York,New York City,10170,NN10170
+East,New York,New York City,10177,NN10177
+East,New York,New York City,10280,NN10280
+East,New York,New York City,10282,NN10282
+East,New York,Niagara Falls,14304,NN14304
+East,New York,North Babylon,11703,NN11703
+East,New York,North Tonawanda,14120,NN14120
+East,New York,Oceanside,11572,NO11572
+East,New York,Ossining,10562,NO10562
+East,New York,Plainview,11803,NP11803
+East,New York,Port Chester,10573,NP10573
+East,New York,Rochester,14609,NR14609
+East,New York,Rome,13440,NR13440
+East,New York,Roosevelt,11575,NR11575
+East,New York,Rotterdam,12306,NR12306
+East,New York,Rye,10580,NR10580
+East,New York,Scarsdale,10583,NS10583
+East,New York,Schenectady,12306,NS12306
+East,New York,Shirley,11967,NS11967
+East,New York,Smithtown,11787,NS11787
+East,New York,Syracuse,13210,NS13210
+East,New York,Tonawanda,14150,NT14150
+East,New York,Troy,12180,NT12180
+East,New York,Utica,13501,NU13501
+East,New York,Valley Stream,11580,NV11580
+East,New York,Watertown,13601,NW13601
+East,New York,West Babylon,11704,NW11704
+East,New York,West Islip,11795,NW11795
+East,New York,West Seneca,14224,NW14224
+East,New York,White Plains,10605,NW10605
+East,New York,Woodmere,11598,NW11598
+East,New York,Yonkers,10701,NY10701
+East,Ohio,Akron,44312,OA44312
+East,Ohio,Austintown,44515,OA44515
+East,Ohio,Beavercreek,45431,OB45431
+East,Ohio,Berea,44017,OB44017
+East,Ohio,Boardman,44512,OB44512
+East,Ohio,Bowling Green,43402,OB43402
+East,Ohio,Canton,44708,OC44708
+East,Ohio,Cincinnati,45231,OC45231
+East,Ohio,Cleveland,44105,OC44105
+East,Ohio,Cleveland Heights,44106,OC44106
+East,Ohio,Columbus,43229,OC43229
+East,Ohio,Cuyahoga Falls,44221,OC44221
+East,Ohio,Dayton,45406,OD45406
+East,Ohio,Delaware,43015,OD43015
+East,Ohio,Dublin,43017,OD43017
+East,Ohio,East Cleveland,44112,OE44112
+East,Ohio,Elyria,44035,OE44035
+East,Ohio,Euclid,44117,OE44117
+East,Ohio,Fairborn,45324,OF45324
+East,Ohio,Fairfield,45014,OF45014
+East,Ohio,Findlay,45840,OF45840
+East,Ohio,Gahanna,43230,OG43230
+East,Ohio,Garfield Heights,44125,OG44125
+East,Ohio,Grove City,43123,OG43123
+East,Ohio,Hamilton,45011,OH45011
+East,Ohio,Hilliard,43026,OH43026
+East,Ohio,Huber Heights,45424,OH45424
+East,Ohio,Hudson,44236,OH44236
+East,Ohio,Kent,44240,OK44240
+East,Ohio,Kettering,45429,OK45429
+East,Ohio,Lakewood,44107,OL44107
+East,Ohio,Lancaster,43130,OL43130
+East,Ohio,Lima,45801,OL45801
+East,Ohio,Lorain,44052,OL44052
+East,Ohio,Mansfield,44903,OM44903
+East,Ohio,Marion,43302,OM43302
+East,Ohio,Mason,45040,OM45040
+East,Ohio,Massillon,44646,OM44646
+East,Ohio,Medina,44256,OM44256
+East,Ohio,Mentor,44060,OM44060
+East,Ohio,Middletown,45042,OM45042
+East,Ohio,Mount Vernon,43050,OM43050
+East,Ohio,Newark,43055,ON43055
+East,Ohio,North Olmsted,44070,ON44070
+East,Ohio,North Ridgeville,44039,ON44039
+East,Ohio,North Royalton,44133,ON44133
+East,Ohio,Parma,44134,OP44134
+East,Ohio,Reynoldsburg,43068,OR43068
+East,Ohio,Sandusky,44870,OS44870
+East,Ohio,Shaker Heights,44118,OS44118
+East,Ohio,Springfield,45503,OS45503
+East,Ohio,Steubenville,43952,OS43952
+East,Ohio,Stow,44224,OS44224
+East,Ohio,Strongsville,44136,OS44136
+East,Ohio,Toledo,43615,OT43615
+East,Ohio,Troy,45373,OT45373
+East,Ohio,Upper Arlington,43221,OU43221
+East,Ohio,Warren,44483,OW44483
+East,Ohio,Westerville,43081,OW43081
+East,Ohio,Westlake,44145,OW44145
+East,Ohio,Whitehall,43213,OW43213
+East,Ohio,Willoughby,44094,OW44094
+East,Ohio,Wooster,44691,OW44691
+East,Ohio,Xenia,45385,OX45385
+East,Ohio,Youngstown,44511,OY44511
+East,Pennsylvania,Allentown,18103,PA18103
+East,Pennsylvania,Altoona,16602,PA16602
+East,Pennsylvania,Baldwin,15234,PB15234
+East,Pennsylvania,Bethel Park,15102,PB15102
+East,Pennsylvania,Bethlehem,18018,PB18018
+East,Pennsylvania,Chambersburg,17201,PC17201
+East,Pennsylvania,Chester,19013,PC19013
+East,Pennsylvania,Drexel Hill,19026,PD19026
+East,Pennsylvania,Easton,18040,PE18040
+East,Pennsylvania,Erie,16509,PE16509
+East,Pennsylvania,Greensburg,15601,PG15601
+East,Pennsylvania,Hanover,17331,PH17331
+East,Pennsylvania,Harrisburg,17112,PH17112
+East,Pennsylvania,Hazleton,18201,PH18201
+East,Pennsylvania,Hermitage,16148,PH16148
+East,Pennsylvania,King of Prussia,19406,PK19406
+East,Pennsylvania,Lancaster,17602,PL17602
+East,Pennsylvania,Levittown,19057,PL19057
+East,Pennsylvania,McKeesport,15131,PM15131
+East,Pennsylvania,Monroeville,15146,PM15146
+East,Pennsylvania,Mount Lebanon,15228,PM15228
+East,Pennsylvania,Norristown,19401,PN19401
+East,Pennsylvania,Penn Hills,15235,PP15235
+East,Pennsylvania,Philadelphia,19112,PP19112
+East,Pennsylvania,Philadelphia,19120,PP19120
+East,Pennsylvania,Philadelphia,19134,PP19134
+East,Pennsylvania,Philadelphia,19140,PP19140
+East,Pennsylvania,Philadelphia,19143,PP19143
+East,Pennsylvania,Pittsburgh,15122,PP15122
+East,Pennsylvania,Plum,15239,PP15239
+East,Pennsylvania,Pottstown,19464,PP19464
+East,Pennsylvania,Radnor,19087,PR19087
+East,Pennsylvania,Reading,19601,PR19601
+East,Pennsylvania,Scranton,18504,PS18504
+East,Pennsylvania,Sharon,16146,PS16146
+East,Pennsylvania,State College,16801,PS16801
+East,Pennsylvania,Upper Saint Clair,15241,PU15241
+East,Pennsylvania,West Mifflin,15122,PW15122
+East,Pennsylvania,Wilkes Barre,18705,PW18705
+East,Pennsylvania,Wilkinsburg,15221,PW15221
+East,Pennsylvania,Willow Grove,19090,PW19090
+East,Pennsylvania,York,17403,PY17403
+East,Rhode Island,Barrington,2806,RB2806
+East,Rhode Island,Central Falls,2863,RC2863
+East,Rhode Island,Coventry,2816,RC2816
+East,Rhode Island,Cranston,2907,RC2907
+East,Rhode Island,Cranston,2910,RC2910
+East,Rhode Island,Cranston,2920,RC2920
+East,Rhode Island,Cumberland,2864,RC2864
+East,Rhode Island,East Providence,2914,RE2914
+East,Rhode Island,Middletown,2840,RM2840
+East,Rhode Island,Newport,2840,RN2840
+East,Rhode Island,North Kingstown,2852,RN2852
+East,Rhode Island,Pawtucket,2861,RP2861
+East,Rhode Island,Providence,2908,RP2908
+East,Rhode Island,Smithfield,2917,RS2917
+East,Rhode Island,Tiverton,2878,RT2878
+East,Rhode Island,Warwick,2886,RW2886
+East,Rhode Island,Westerly,2808,RW2808
+East,Rhode Island,Westerly,2891,RW2891
+East,Rhode Island,Woonsocket,2895,RW2895
+East,Vermont,Bennington,5201,VB5201
+East,Vermont,Burlington,5401,VB5401
+East,Vermont,Colchester,5439,VC5439
+East,Vermont,Essex Junction,5451,VE5451
+East,Vermont,Rutland,5701,VR5701
+East,Vermont,South Burlington,5403,VS5403
+East,West Virginia,Beckley,25801,WB25801
+East,West Virginia,Charleston,25314,WC25314
+East,West Virginia,Clarksburg,26301,WC26301
+East,West Virginia,Fairmont,26554,WF26554
+East,West Virginia,Huntington,25705,WH25705
+East,West Virginia,Morgantown,26501,WM26501
+East,West Virginia,Parkersburg,26101,WP26101
+East,West Virginia,Wheeling,26003,WW26003
+South,Alabama,Auburn,36830,AA36830
+South,Alabama,Bessemer,35020,AB35020
+South,Alabama,Birmingham,35211,AB35211
+South,Alabama,Decatur,35601,AD35601
+South,Alabama,Enterprise,36330,AE36330
+South,Alabama,Florence,35630,AF35630
+South,Alabama,Gadsden,35904,AG35904
+South,Alabama,Homewood,35209,AH35209
+South,Alabama,Hoover,35244,AH35244
+South,Alabama,Huntsville,35810,AH35810
+South,Alabama,Madison,35756,AM35756
+South,Alabama,Mobile,36608,AM36608
+South,Alabama,Montgomery,36116,AM36116
+South,Alabama,Northport,35473,AN35473
+South,Alabama,Opelika,36801,AO36801
+South,Alabama,Oxford,36203,AO36203
+South,Alabama,Phenix City,36869,AP36869
+South,Alabama,Prattville,36067,AP36067
+South,Alabama,Selma,36701,AS36701
+South,Alabama,Talladega,35160,AT35160
+South,Alabama,Tuscaloosa,35401,AT35401
+South,Alabama,Vestavia Hills,35216,AV35216
+South,Arkansas,Bella Vista,72714,AB72714
+South,Arkansas,Benton,72015,AB72015
+South,Arkansas,Bentonville,72712,AB72712
+South,Arkansas,Bryant,72022,AB72022
+South,Arkansas,Cabot,72023,AC72023
+South,Arkansas,Conway,72032,AC72032
+South,Arkansas,Fayetteville,72701,AF72701
+South,Arkansas,Fort Smith,72903,AF72903
+South,Arkansas,Hot Springs,71901,AH71901
+South,Arkansas,Jonesboro,72401,AJ72401
+South,Arkansas,Little Rock,72209,AL72209
+South,Arkansas,North Little Rock,72113,AN72113
+South,Arkansas,Paragould,72450,AP72450
+South,Arkansas,Pine Bluff,71603,AP71603
+South,Arkansas,Rogers,72756,AR72756
+South,Arkansas,Russellville,72801,AR72801
+South,Arkansas,Searcy,72143,AS72143
+South,Arkansas,Sherwood,72116,AS72116
+South,Arkansas,Springdale,72762,AS72762
+South,Arkansas,Texarkana,71854,AT71854
+South,Arkansas,Van Buren,72956,AV72956
+South,Arkansas,West Memphis,72301,AW72301
+South,Florida,Altamonte Springs,32701,FA32701
+South,Florida,Apopka,32712,FA32712
+South,Florida,Belle Glade,33430,FB33430
+South,Florida,Boca Raton,33433,FB33433
+South,Florida,Boynton Beach,33437,FB33437
+South,Florida,Bradenton,34210,FB34210
+South,Florida,Brandon,33511,FB33511
+South,Florida,Carol City,33055,FC33055
+South,Florida,Casselberry,32707,FC32707
+South,Florida,Coconut Creek,33063,FC33063
+South,Florida,Coral Gables,33134,FC33134
+South,Florida,Coral Springs,33065,FC33065
+South,Florida,Davie,33314,FD33314
+South,Florida,Daytona Beach,32114,FD32114
+South,Florida,Deerfield Beach,33441,FD33441
+South,Florida,Deland,32720,FD32720
+South,Florida,Delray Beach,33445,FD33445
+South,Florida,Deltona,32725,FD32725
+South,Florida,Dunedin,34698,FD34698
+South,Florida,Fort Lauderdale,33311,FF33311
+South,Florida,Fort Myers,33917,FF33917
+South,Florida,Fort Pierce,34982,FF34982
+South,Florida,Fruit Cove,32259,FF32259
+South,Florida,Gainesville,32601,FG32601
+South,Florida,Hialeah,33012,FH33012
+South,Florida,Hollywood,33021,FH33021
+South,Florida,Homestead,33030,FH33030
+South,Florida,Immokalee,34142,FI34142
+South,Florida,Jacksonville,32216,FJ32216
+South,Florida,Jupiter,33458,FJ33458
+South,Florida,Kendall,33156,FK33156
+South,Florida,Kissimmee,34741,FK34741
+South,Florida,Lake Worth,33461,FL33461
+South,Florida,Lakeland,33801,FL33801
+South,Florida,Land O Lakes,34639,FL34639
+South,Florida,Lehigh Acres,33971,FL33971
+South,Florida,Margate,33063,FM33063
+South,Florida,Melbourne,32935,FM32935
+South,Florida,Merritt Island,32953,FM32953
+South,Florida,Miami,33132,FM33132
+South,Florida,Miami,33142,FM33142
+South,Florida,Miami,33178,FM33178
+South,Florida,Miami,33180,FM33180
+South,Florida,Miami,33181,FM33181
+South,Florida,Miami,33916,FM33916
+South,Florida,Miramar,33023,FM33023
+South,Florida,New Smyrna Beach,32168,FN32168
+South,Florida,North Miami,33161,FN33161
+South,Florida,North Miami Beach,33160,FN33160
+South,Florida,North Port,34287,FN34287
+South,Florida,Oakland Park,33334,FO33334
+South,Florida,Ocoee,34761,FO34761
+South,Florida,Orlando,32839,FO32839
+South,Florida,Ormond Beach,32174,FO32174
+South,Florida,Oviedo,32765,FO32765
+South,Florida,Palm Bay,32905,FP32905
+South,Florida,Palm Beach Gardens,33403,FP33403
+South,Florida,Palm Coast,32137,FP32137
+South,Florida,Palm Harbor,34683,FP34683
+South,Florida,Panama City,32404,FP32404
+South,Florida,Pembroke Pines,33024,FP33024
+South,Florida,Pensacola,32503,FP32503
+South,Florida,Pine Hills,32808,FP32808
+South,Florida,Plant City,33566,FP33566
+South,Florida,Plantation,33317,FP33317
+South,Florida,Poinciana,34759,FP34759
+South,Florida,Pompano Beach,33068,FP33068
+South,Florida,Ponte Vedra Beach,32004,FP32004
+South,Florida,Port Charlotte,33952,FP33952
+South,Florida,Port Orange,32127,FP32127
+South,Florida,Port Saint Lucie,34952,FP34952
+South,Florida,Riverview,33569,FR33569
+South,Florida,Riviera Beach,33404,FR33404
+South,Florida,Royal Palm Beach,33411,FR33411
+South,Florida,Saint Cloud,34769,FS34769
+South,Florida,Saint Petersburg,33710,FS33710
+South,Florida,Sanford,32771,FS32771
+South,Florida,Sarasota,34239,FS34239
+South,Florida,Seminole,33772,FS33772
+South,Florida,Spring Hill,34609,FS34609
+South,Florida,Sunrise,33322,FS33322
+South,Florida,Tallahassee,32303,FT32303
+South,Florida,Tamarac,33319,FT33319
+South,Florida,Tampa,33614,FT33614
+South,Florida,Titusville,32780,FT32780
+South,Florida,West Palm Beach,33407,FW33407
+South,Florida,Winter Garden,34787,FW34787
+South,Florida,Winter Haven,33881,FW33881
+South,Florida,Winter Park,32789,FW32789
+South,Florida,Winter Springs,32708,FW32708
+South,Georgia,Albany,31707,GA31707
+South,Georgia,Athens,30605,GA30605
+South,Georgia,Atlanta,30305,GA30305
+South,Georgia,Atlanta,30318,GA30318
+South,Georgia,Augusta,30904,GA30904
+South,Georgia,College Park,30337,GC30337
+South,Georgia,Columbus,31907,GC31907
+South,Georgia,Dalton,30721,GD30721
+South,Georgia,Douglasville,30135,GD30135
+South,Georgia,Dunwoody,30338,GD30338
+South,Georgia,East Point,30344,GE30344
+South,Georgia,Evans,30809,GE30809
+South,Georgia,Forest Park,30297,GF30297
+South,Georgia,Gainesville,30501,GG30501
+South,Georgia,Hinesville,31313,GH31313
+South,Georgia,Kennesaw,30144,GK30144
+South,Georgia,La Grange,30240,GL30240
+South,Georgia,Macon,31204,GM31204
+South,Georgia,Marietta,30062,GM30062
+South,Georgia,Martinez,30907,GM30907
+South,Georgia,Newnan,30265,GN30265
+South,Georgia,Peachtree City,30269,GP30269
+South,Georgia,Rome,30161,GR30161
+South,Georgia,Roswell,30076,GR30076
+South,Georgia,Sandy Springs,30328,GS30328
+South,Georgia,Savannah,31401,GS31401
+South,Georgia,Smyrna,30080,GS30080
+South,Georgia,Statesboro,30458,GS30458
+South,Georgia,Tucker,30084,GT30084
+South,Georgia,Warner Robins,31088,GW31088
+South,Georgia,Woodstock,30188,GW30188
+South,Kentucky,Bowling Green,42104,KB42104
+South,Kentucky,Covington,41011,KC41011
+South,Kentucky,Danville,40422,KD40422
+South,Kentucky,Florence,41042,KF41042
+South,Kentucky,Fort Thomas,41075,KF41075
+South,Kentucky,Georgetown,40324,KG40324
+South,Kentucky,Henderson,42420,KH42420
+South,Kentucky,Hopkinsville,42240,KH42240
+South,Kentucky,Louisville,40214,KL40214
+South,Kentucky,Murray,42071,KM42071
+South,Kentucky,Nicholasville,40356,KN40356
+South,Kentucky,Owensboro,42301,KO42301
+South,Kentucky,Paducah,42003,KP42003
+South,Kentucky,Pleasure Ridge Park,40258,KP40258
+South,Kentucky,Richmond,40475,KR40475
+South,Louisiana,Alexandria,71301,LA71301
+South,Louisiana,Baton Rouge,70802,LB70802
+South,Louisiana,Bossier City,71111,LB71111
+South,Louisiana,Houma,70364,LH70364
+South,Louisiana,Kenner,70065,LK70065
+South,Louisiana,Lafayette,70506,LL70506
+South,Louisiana,Lake Charles,70601,LL70601
+South,Louisiana,Marrero,70072,LM70072
+South,Louisiana,Metairie,70003,LM70003
+South,Louisiana,Monroe,71203,LM71203
+South,Louisiana,New Iberia,70560,LN70560
+South,Louisiana,New Orleans,70117,LN70117
+South,Louisiana,Shreveport,71109,LS71109
+South,Louisiana,Slidell,70458,LS70458
+South,Louisiana,Terrytown,70056,LT70056
+South,Mississippi,Biloxi,39530,MB39530
+South,Mississippi,Clinton,39056,MC39056
+South,Mississippi,Columbus,39701,MC39701
+South,Mississippi,Greenville,38701,MG38701
+South,Mississippi,Gulfport,39503,MG39503
+South,Mississippi,Hattiesburg,39401,MH39401
+South,Mississippi,Horn Lake,38637,MH38637
+South,Mississippi,Jackson,39212,MJ39212
+South,Mississippi,Long Beach,39560,ML39560
+South,Mississippi,Meridian,39301,MM39301
+South,Mississippi,Olive Branch,38654,MO38654
+South,Mississippi,Pearl,39208,MP39208
+South,Mississippi,Southaven,38671,MS38671
+South,Mississippi,Tupelo,38801,MT38801
+South,Mississippi,Vicksburg,39180,MV39180
+South,North Carolina,Albemarle,28001,NA28001
+South,North Carolina,Apex,27502,NA27502
+South,North Carolina,Asheboro,27203,NA27203
+South,North Carolina,Asheville,28806,NA28806
+South,North Carolina,Burlington,27217,NB27217
+South,North Carolina,Cary,27511,NC27511
+South,North Carolina,Chapel Hill,27514,NC27514
+South,North Carolina,Charlotte,28204,NC28204
+South,North Carolina,Charlotte,28205,NC28205
+South,North Carolina,Charlotte,28206,NC28206
+South,North Carolina,Concord,28027,NC28027
+South,North Carolina,Cornelius,28031,NC28031
+South,North Carolina,Durham,27707,ND27707
+South,North Carolina,Eden,27288,NE27288
+South,North Carolina,Fayetteville,28314,NF28314
+South,North Carolina,Fort Bragg,28307,NF28307
+South,North Carolina,Garner,27529,NG27529
+South,North Carolina,Gastonia,28052,NG28052
+South,North Carolina,Goldsboro,27534,NG27534
+South,North Carolina,Greensboro,27405,NG27405
+South,North Carolina,Greenville,27834,NG27834
+South,North Carolina,Hickory,28601,NH28601
+South,North Carolina,High Point,27260,NH27260
+South,North Carolina,Indian Trail,28079,NI28079
+South,North Carolina,Jacksonville,28540,NJ28540
+South,North Carolina,Kannapolis,28081,NK28081
+South,North Carolina,Laurinburg,28352,NL28352
+South,North Carolina,Mint Hill,28227,NM28227
+South,North Carolina,Monroe,28110,NM28110
+South,North Carolina,Mooresville,28115,NM28115
+South,North Carolina,New Bern,28560,NN28560
+South,North Carolina,Raleigh,27604,NR27604
+South,North Carolina,Rocky Mount,27801,NR27801
+South,North Carolina,Salisbury,28144,NS28144
+South,North Carolina,Sanford,27237,NS27237
+South,North Carolina,Thomasville,27360,NT27360
+South,North Carolina,Wake Forest,27587,NW27587
+South,North Carolina,Wilmington,28403,NW28403
+South,North Carolina,Wilson,27893,NW27893
+South,South Carolina,Aiken,29801,SA29801
+South,South Carolina,Anderson,29624,SA29624
+South,South Carolina,Charleston,29418,SC29418
+South,South Carolina,Columbia,29203,SC29203
+South,South Carolina,Florence,29501,SF29501
+South,South Carolina,Greenville,29611,SG29611
+South,South Carolina,Greer,29651,SG29651
+South,South Carolina,Hilton Head Island,29915,SH29915
+South,South Carolina,Mauldin,29662,SM29662
+South,South Carolina,Mount Pleasant,29464,SM29464
+South,South Carolina,Myrtle Beach,29577,SM29577
+South,South Carolina,North Charleston,29406,SN29406
+South,South Carolina,Rock Hill,29730,SR29730
+South,South Carolina,Spartanburg,29301,SS29301
+South,South Carolina,Summerville,29483,SS29483
+South,South Carolina,Taylors,29687,ST29687
+South,Tennessee,Bartlett,38134,TB38134
+South,Tennessee,Brentwood,37027,TB37027
+South,Tennessee,Bristol,37620,TB37620
+South,Tennessee,Chattanooga,37421,TC37421
+South,Tennessee,Clarksville,37042,TC37042
+South,Tennessee,Cleveland,37311,TC37311
+South,Tennessee,Collierville,38017,TC38017
+South,Tennessee,Columbia,38401,TC38401
+South,Tennessee,Farragut,37922,TF37922
+South,Tennessee,Franklin,37064,TF37064
+South,Tennessee,Gallatin,37066,TG37066
+South,Tennessee,Germantown,38138,TG38138
+South,Tennessee,Greeneville,37743,TG37743
+South,Tennessee,Hendersonville,37075,TH37075
+South,Tennessee,Jackson,38301,TJ38301
+South,Tennessee,Johnson City,37604,TJ37604
+South,Tennessee,Kingsport,37664,TK37664
+South,Tennessee,Knoxville,37918,TK37918
+South,Tennessee,La Vergne,37086,TL37086
+South,Tennessee,Lebanon,37087,TL37087
+South,Tennessee,Maryville,37804,TM37804
+South,Tennessee,Memphis,38109,TM38109
+South,Tennessee,Morristown,37814,TM37814
+South,Tennessee,Murfreesboro,37130,TM37130
+South,Tennessee,Nashville,37211,TN37211
+South,Tennessee,Oak Ridge,37830,TO37830
+South,Tennessee,Smyrna,37167,TS37167
+South,Tennessee,Spring Hill,37174,TS37174
+South,Virginia,Alexandria,22304,VA22304
+South,Virginia,Annandale,22003,VA22003
+South,Virginia,Arlington,22204,VA22204
+South,Virginia,Blacksburg,24060,VB24060
+South,Virginia,Burke,22015,VB22015
+South,Virginia,Charlottesville,22901,VC22901
+South,Virginia,Chesapeake,23320,VC23320
+South,Virginia,Colonial Heights,23834,VC23834
+South,Virginia,Dale City,22193,VD22193
+South,Virginia,Danville,24541,VD24541
+South,Virginia,Fairfax,20151,VF20151
+South,Virginia,Hampton,23666,VH23666
+South,Virginia,Harrisonburg,22801,VH22801
+South,Virginia,Herndon,20170,VH20170
+South,Virginia,Lynchburg,24501,VL24501
+South,Virginia,Mechanicsville,23111,VM23111
+South,Virginia,Montclair,22025,VM22025
+South,Virginia,Newport News,23602,VN23602
+South,Virginia,Norfolk,23518,VN23518
+South,Virginia,Oakton,22124,VO22124
+South,Virginia,Petersburg,23805,VP23805
+South,Virginia,Portsmouth,23701,VP23701
+South,Virginia,Reston,20190,VR20190
+South,Virginia,Richmond,23223,VR23223
+South,Virginia,Roanoke,24017,VR24017
+South,Virginia,Rose Hill,24281,VR24281
+South,Virginia,Salem,24153,VS24153
+South,Virginia,Springfield,22153,VS22153
+South,Virginia,Suffolk,23434,VS23434
+South,Virginia,Tysons Corner,22102,VT22102
+South,Virginia,Virginia Beach,23464,VV23464
+South,Virginia,Waynesboro,22980,VW22980
+South,Virginia,Winchester,22601,VW22601
+West,Arizona,Avondale,85323,AA85323
+West,Arizona,Bullhead City,86442,AB86442
+West,Arizona,Casas Adobes,85704,AC85704
+West,Arizona,Chandler,85224,AC85224
+West,Arizona,El Mirage,85335,AE85335
+West,Arizona,Flagstaff,86001,AF86001
+West,Arizona,Gilbert,85234,AG85234
+West,Arizona,Glendale,85301,AG85301
+West,Arizona,Goodyear,85338,AG85338
+West,Arizona,Kingman,86401,AK86401
+West,Arizona,Mesa,85204,AM85204
+West,Arizona,Oro Valley,85737,AO85737
+West,Arizona,Peoria,85345,AP85345
+West,Arizona,Phoenix,85023,AP85023
+West,Arizona,Prescott,86301,AP86301
+West,Arizona,Prescott Valley,86314,AP86314
+West,Arizona,Scottsdale,85254,AS85254
+West,Arizona,Sierra Vista,85635,AS85635
+West,Arizona,Sun City,85351,AS85351
+West,Arizona,Surprise,85374,AS85374
+West,Arizona,Tempe,85281,AT85281
+West,Arizona,Tucson,85705,AT85705
+West,Arizona,Yuma,85364,AY85364
+West,California,Anaheim,92804,CA92804
+West,California,Antioch,94509,CA94509
+West,California,Apple Valley,92307,CA92307
+West,California,Atascadero,93422,CA93422
+West,California,Bakersfield,93309,CB93309
+West,California,Berkeley,94704,CB94704
+West,California,Beverly Hills,90210,CB90210
+West,California,Brentwood,94513,CB94513
+West,California,Burbank,91505,CB91505
+West,California,Calexico,92231,CC92231
+West,California,Camarillo,93010,CC93010
+West,California,Carlsbad,92008,CC92008
+West,California,Chico,95928,CC95928
+West,California,Chula Vista,91911,CC91911
+West,California,Citrus Heights,95610,CC95610
+West,California,Claremont,91711,CC91711
+West,California,Coachella,92236,CC92236
+West,California,Concord,94521,CC94521
+West,California,Costa Mesa,92627,CC92627
+West,California,Daly City,94015,CD94015
+West,California,Danville,94526,CD94526
+West,California,Davis,95616,CD95616
+West,California,Dublin,94568,CD94568
+West,California,East Los Angeles,90022,CE90022
+West,California,El Cajon,92020,CE92020
+West,California,El Centro,92243,CE92243
+West,California,El Dorado Hills,95630,CE95630
+West,California,Encinitas,92024,CE92024
+West,California,Escondido,92025,CE92025
+West,California,Eureka,95501,CE95501
+West,California,Fairfield,94533,CF94533
+West,California,Foster City,94404,CF94404
+West,California,Fresno,93727,CF93727
+West,California,Gilroy,95020,CG95020
+West,California,Goleta,93117,CG93117
+West,California,Granite Bay,95746,CG95746
+West,California,Hacienda Heights,91745,CH91745
+West,California,Hemet,92544,CH92544
+West,California,Hesperia,92345,CH92345
+West,California,Huntington Beach,92646,CH92646
+West,California,Inglewood,90301,CI90301
+West,California,La Mesa,91941,CL91941
+West,California,La Quinta,92253,CL92253
+West,California,Laguna Hills,92653,CL92653
+West,California,Laguna Niguel,92677,CL92677
+West,California,Lake Elsinore,92530,CL92530
+West,California,Lake Forest,92630,CL92630
+West,California,Lakewood,90712,CL90712
+West,California,Lancaster,93534,CL93534
+West,California,Lawndale,90260,CL90260
+West,California,Lemon Grove,91945,CL91945
+West,California,Lodi,95240,CL95240
+West,California,Long Beach,90805,CL90805
+West,California,Los Altos,94024,CL94024
+West,California,Los Angeles,90004,CL90004
+West,California,Los Angeles,90008,CL90008
+West,California,Los Angeles,90032,CL90032
+West,California,Los Angeles,90036,CL90036
+West,California,Los Angeles,90041,CL90041
+West,California,Los Angeles,90045,CL90045
+West,California,Los Angeles,90049,CL90049
+West,California,Los Angeles,90058,CL90058
+West,California,Los Angeles,90061,CL90061
+West,California,Los Angeles,90068,CL90068
+West,California,Los Banos,93635,CL93635
+West,California,Los Gatos,95032,CL95032
+West,California,Manhattan Beach,90266,CM90266
+West,California,Manteca,95336,CM95336
+West,California,Menlo Park,94025,CM94025
+West,California,Mission Viejo,92691,CM92691
+West,California,Modesto,95351,CM95351
+West,California,Montebello,90640,CM90640
+West,California,Moreno Valley,92553,CM92553
+West,California,Morgan Hill,95037,CM95037
+West,California,Mountain View,94043,CM94043
+West,California,Murrieta,92563,CM92563
+West,California,Napa,94559,CN94559
+West,California,Oakland,94601,CO94601
+West,California,Oceanside,92054,CO92054
+West,California,Ontario,91761,CO91761
+West,California,Oxnard,93030,CO93030
+West,California,Pacifica,94044,CP94044
+West,California,Palm Springs,92262,CP92262
+West,California,Palo Alto,94306,CP94306
+West,California,Paradise,95969,CP95969
+West,California,Pasadena,91104,CP91104
+West,California,Petaluma,94952,CP94952
+West,California,Pico Rivera,90660,CP90660
+West,California,Pomona,91767,CP91767
+West,California,Rancho Cucamonga,91730,CR91730
+West,California,Redding,96003,CR96003
+West,California,Redlands,92374,CR92374
+West,California,Redondo Beach,90278,CR90278
+West,California,Redwood City,94061,CR94061
+West,California,Riverside,92503,CR92503
+West,California,Rocklin,95677,CR95677
+West,California,Roseville,95661,CR95661
+West,California,Sacramento,95823,CS95823
+West,California,Salinas,93905,CS93905
+West,California,San Bernardino,92404,CS92404
+West,California,San Carlos,94070,CS94070
+West,California,San Clemente,92672,CS92672
+West,California,San Diego,92024,CS92024
+West,California,San Diego,92037,CS92037
+West,California,San Diego,92105,CS92105
+West,California,San Francisco,94109,CS94109
+West,California,San Francisco,94110,CS94110
+West,California,San Francisco,94122,CS94122
+West,California,San Gabriel,91776,CS91776
+West,California,San Jose,95123,CS95123
+West,California,San Luis Obispo,93405,CS93405
+West,California,San Mateo,94403,CS94403
+West,California,San Ramon,94583,CS94583
+West,California,Santa Ana,92704,CS92704
+West,California,Santa Barbara,93101,CS93101
+West,California,Santa Clara,95051,CS95051
+West,California,Santa Cruz,95062,CS95062
+West,California,Santa Maria,93454,CS93454
+West,California,Santa Monica,90405,CS90405
+West,California,Santa Rosa,95404,CS95404
+West,California,Saratoga,95070,CS95070
+West,California,South Lake Tahoe,96150,CS96150
+West,California,Stockton,95207,CS95207
+West,California,Sunnyvale,94086,CS94086
+West,California,Temecula,92592,CT92592
+West,California,Thousand Oaks,91360,CT91360
+West,California,Torrance,90503,CT90503
+West,California,Tracy,95376,CT95376
+West,California,Twentynine Palms,92277,CT92277
+West,California,Vacaville,95687,CV95687
+West,California,Vallejo,94591,CV94591
+West,California,Visalia,93277,CV93277
+West,California,West Hollywood,90069,CW90069
+West,California,Westminster,92683,CW92683
+West,California,Whittier,90604,CW90604
+West,California,Woodland,95695,CW95695
+West,California,Yuba City,95991,CY95991
+West,California,Yucaipa,92399,CY92399
+West,Colorado,Arvada,80004,CA80004
+West,Colorado,Aurora,80013,CA80013
+West,Colorado,Boulder,80303,CB80303
+West,Colorado,Broomfield,80020,CB80020
+West,Colorado,Castle Rock,80104,CC80104
+West,Colorado,Colorado Springs,80906,CC80906
+West,Colorado,Commerce City,80022,CC80022
+West,Colorado,Denver,80219,CD80219
+West,Colorado,Durango,81301,CD81301
+West,Colorado,Englewood,80112,CE80112
+West,Colorado,Fort Collins,80525,CF80525
+West,Colorado,Fountain,80817,CF80817
+West,Colorado,Grand Junction,81503,CG81503
+West,Colorado,Greeley,80634,CG80634
+West,Colorado,Highlands Ranch,80126,CH80126
+West,Colorado,Lakewood,80232,CL80232
+West,Colorado,Littleton,80122,CL80122
+West,Colorado,Longmont,80501,CL80501
+West,Colorado,Louisville,80027,CL80027
+West,Colorado,Loveland,80538,CL80538
+West,Colorado,Northglenn,80233,CN80233
+West,Colorado,Parker,80134,CP80134
+West,Colorado,Pueblo,81001,CP81001
+West,Colorado,Pueblo West,81007,CP81007
+West,Colorado,Thornton,80229,CT80229
+West,Colorado,Westminster,80030,CW80030
+West,Colorado,Wheat Ridge,80033,CW80033
+West,Idaho,Boise,83701,IB83701
+West,Idaho,Boise,83704,IB83704
+West,Idaho,Caldwell,83605,IC83605
+West,Idaho,Coeur D Alene,83814,IC83814
+West,Idaho,Eagle,83616,IE83616
+West,Idaho,Idaho Falls,83402,II83402
+West,Idaho,Lewiston,83501,IL83501
+West,Idaho,Meridian,83642,IM83642
+West,Idaho,Moscow,83843,IM83843
+West,Idaho,Nampa,83686,IN83686
+West,Idaho,Pocatello,83201,IP83201
+West,Idaho,Post Falls,83854,IP83854
+West,Idaho,Rexburg,83440,IR83440
+West,Idaho,Twin Falls,83301,IT83301
+West,Montana,Billings,59102,MB59102
+West,Montana,Bozeman,59715,MB59715
+West,Montana,Butte,59750,MB59750
+West,Montana,Great Falls,59405,MG59405
+West,Montana,Helena,59601,MH59601
+West,Montana,Kalispell,59901,MK59901
+West,Montana,Missoula,59801,MM59801
+West,Nevada,Carson City,89701,NC89701
+West,Nevada,Henderson,89015,NH89015
+West,Nevada,Las Vegas,89115,NL89115
+West,Nevada,North Las Vegas,89031,NN89031
+West,Nevada,Pahrump,89041,NP89041
+West,Nevada,Reno,89502,NR89502
+West,Nevada,Sparks,89431,NS89431
+West,New Mexico,Alamogordo,88310,NA88310
+West,New Mexico,Albuquerque,87105,NA87105
+West,New Mexico,Carlsbad,88220,NC88220
+West,New Mexico,Clovis,88101,NC88101
+West,New Mexico,Farmington,87401,NF87401
+West,New Mexico,Hobbs,88240,NH88240
+West,New Mexico,Las Cruces,88001,NL88001
+West,New Mexico,Rio Rancho,87124,NR87124
+West,New Mexico,Roswell,88201,NR88201
+West,New Mexico,Santa Fe,87505,NS87505
+West,Oregon,Albany,97321,OA97321
+West,Oregon,Aloha,97007,OA97007
+West,Oregon,Beaverton,97005,OB97005
+West,Oregon,Bend,97701,OB97701
+West,Oregon,Coos Bay,97420,OC97420
+West,Oregon,Corvallis,97330,OC97330
+West,Oregon,Eugene,97405,OE97405
+West,Oregon,Grants Pass,97526,OG97526
+West,Oregon,Gresham,97030,OG97030
+West,Oregon,Hillsboro,97123,OH97123
+West,Oregon,Keizer,97303,OK97303
+West,Oregon,Klamath Falls,97601,OK97601
+West,Oregon,Lake Oswego,97035,OL97035
+West,Oregon,Mcminnville,97128,OM97128
+West,Oregon,Medford,97504,OM97504
+West,Oregon,Oregon City,97045,OO97045
+West,Oregon,Pendleton,97801,OP97801
+West,Oregon,Portland,97206,OP97206
+West,Oregon,Redmond,97756,OR97756
+West,Oregon,Salem,97301,OS97301
+West,Oregon,Springfield,97477,OS97477
+West,Oregon,Tigard,97224,OT97224
+West,Oregon,Troutdale,97060,OT97060
+West,Oregon,Tualatin,97062,OT97062
+West,Oregon,West Linn,97068,OW97068
+West,Oregon,Woodburn,97071,OW97071
+West,Utah,American Fork,84003,UA84003
+West,Utah,Bountiful,84010,UB84010
+West,Utah,Clearfield,84015,UC84015
+West,Utah,Draper,84020,UD84020
+West,Utah,Holladay,84117,UH84117
+West,Utah,Kaysville,84037,UK84037
+West,Utah,Kearns,84118,UK84118
+West,Utah,Layton,84041,UL84041
+West,Utah,Lehi,84043,UL84043
+West,Utah,Logan,84321,UL84321
+West,Utah,Magna,84044,UM84044
+West,Utah,Midvale,84047,UM84047
+West,Utah,Murray,84107,UM84107
+West,Utah,Ogden,84404,UO84404
+West,Utah,Orem,84057,UO84057
+West,Utah,Pleasant Grove,84062,UP84062
+West,Utah,Provo,84604,UP84604
+West,Utah,Roy,84067,UR84067
+West,Utah,Salt Lake City,84106,US84106
+West,Utah,Spanish Fork,84660,US84660
+West,Utah,Springville,84663,US84663
+West,Utah,Tooele,84074,UT84074
+West,Utah,West Jordan,84084,UW84084
+West,Utah,West Valley City,84120,UW84120
+West,Washington,Anacortes,98221,WA98221
+West,Washington,Auburn,98002,WA98002
+West,Washington,Bellevue,98006,WB98006
+West,Washington,Bellingham,98226,WB98226
+West,Washington,Bothell,98011,WB98011
+West,Washington,Bremerton,98310,WB98310
+West,Washington,Burien,98146,WB98146
+West,Washington,Cottage Lake,98072,WC98072
+West,Washington,Covington,98042,WC98042
+West,Washington,Des Moines,98198,WD98198
+West,Washington,Edmonds,98026,WE98026
+West,Washington,Elk Plain,98387,WE98387
+West,Washington,Everett,98208,WE98208
+West,Washington,Federal Way,98023,WF98023
+West,Washington,Issaquah,98027,WI98027
+West,Washington,Kennewick,99336,WK99336
+West,Washington,Kent,98031,WK98031
+West,Washington,Kirkland,98034,WK98034
+West,Washington,Lacey,98503,WL98503
+West,Washington,Longview,98632,WL98632
+West,Washington,Lynnwood,98037,WL98037
+West,Washington,Marysville,98270,WM98270
+West,Washington,Mount Vernon,98273,WM98273
+West,Washington,Olympia,98502,WO98502
+West,Washington,Parkland,98444,WP98444
+West,Washington,Pasco,99301,WP99301
+West,Washington,Pullman,99163,WP99163
+West,Washington,Puyallup,98373,WP98373
+West,Washington,Redmond,98052,WR98052
+West,Washington,Renton,98059,WR98059
+West,Washington,Richland,99352,WR99352
+West,Washington,Seatac,98158,WS98158
+West,Washington,Seattle,98103,WS98103
+West,Washington,Seattle,98105,WS98105
+West,Washington,Seattle,98107,WS98107
+West,Washington,Seattle,98115,WS98115
+West,Washington,Seattle,98119,WS98119
+West,Washington,Seattle,98144,WS98144
+West,Washington,Spanaway,98387,WS98387
+West,Washington,Spokane,99207,WS99207
+West,Washington,Tacoma,98408,WT98408
+West,Washington,Vancouver,98661,WV98661
+West,Washington,Walla Walla,99362,WW99362
+West,Washington,Wenatchee,98801,WW98801
+West,Washington,Yakima,98902,WY98902
+West,Wyoming,Casper,82604,WC82604
+West,Wyoming,Cheyenne,82001,WC82001
+West,Wyoming,Gillette,82716,WG82716
+West,Wyoming,Laramie,82070,WL82070
+West,Wyoming,Rock Springs,82901,WR82901
